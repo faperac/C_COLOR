@@ -22,8 +22,8 @@ int main() {
 }
 ```
 
-The ansi_colors.h header file defines various color codes, including regular text colors, bold text colors, underline text colors, background colors, high intensity background colors, high intensity text colors, bold high intensity text colors, and reset codes.
+The color.h header file defines various color codes, including regular text colors, bold text colors, underline text colors, background colors, high intensity background colors, high intensity text colors, bold high intensity text colors, and reset codes.
 
 Feel free to experiment with different combinations and styles to enhance the visual appeal of your console applications.
 
-Enjoy. 
+**Enjoy.** 
